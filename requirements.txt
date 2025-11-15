@@ -1,0 +1,5 @@
+pybind11
+pybind11-stubgen
+torch==2.5.1
+torch-npu==2.5.1.post1
+hypothesis==6.148.0
